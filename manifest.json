@@ -1,0 +1,1013 @@
+{
+  "version": 1,
+  "image_size": {
+    "w": 1856,
+    "h": 2304
+  },
+  "render_size": {
+    "w": 1080,
+    "h": 1350
+  },
+  "templates": {
+    "t1": {
+      "scenario": "Campus universitário",
+      "expert_description": "Professor (blazer, óculos, cabelo grisalho)",
+      "companions": [
+        "Aluno",
+        "Aluna"
+      ],
+      "slides": {
+        "slide_01": {
+          "narrative_role": "abertura",
+          "bubble_count": 3,
+          "bubbles": {
+            "bubble_1": {
+              "x": 0.0286,
+              "y": 0.0755,
+              "w": 0.25,
+              "h": 0.2873,
+              "max_chars": 129,
+              "is_expert": true,
+              "is_placard": false
+            },
+            "bubble_2": {
+              "x": 0.6654,
+              "y": 0.1953,
+              "w": 0.3055,
+              "h": 0.1797,
+              "max_chars": 98,
+              "is_expert": false,
+              "is_placard": false
+            },
+            "bubble_3": {
+              "x": 0.4612,
+              "y": 0.6302,
+              "w": 0.2317,
+              "h": 0.2773,
+              "max_chars": 115,
+              "is_expert": false,
+              "is_placard": false
+            }
+          },
+          "image_url": "https://raw.githubusercontent.com/ileoh/portaldata-tirinha-templates/main/t1/slide_01.jpg"
+        },
+        "slide_02": {
+          "narrative_role": "ceticismo",
+          "bubble_count": 4,
+          "bubbles": {
+            "bubble_1": {
+              "x": 0.0286,
+              "y": 0.0755,
+              "w": 0.25,
+              "h": 0.2873,
+              "max_chars": 129,
+              "is_expert": true,
+              "is_placard": false
+            },
+            "bubble_2": {
+              "x": 0.6654,
+              "y": 0.1953,
+              "w": 0.3055,
+              "h": 0.1801,
+              "max_chars": 99,
+              "is_expert": false,
+              "is_placard": false
+            },
+            "bubble_3": {
+              "x": 0.1519,
+              "y": 0.5295,
+              "w": 0.3023,
+              "h": 0.2222,
+              "max_chars": 120,
+              "is_expert": false,
+              "is_placard": true
+            },
+            "bubble_4": {
+              "x": 0.4607,
+              "y": 0.6888,
+              "w": 0.2333,
+              "h": 0.1992,
+              "max_chars": 83,
+              "is_expert": false,
+              "is_placard": true
+            }
+          },
+          "image_url": "https://raw.githubusercontent.com/ileoh/portaldata-tirinha-templates/main/t1/slide_02.jpg"
+        },
+        "slide_03": {
+          "narrative_role": "curiosidade",
+          "bubble_count": 3,
+          "bubbles": {
+            "bubble_1": {
+              "x": 0.0286,
+              "y": 0.0755,
+              "w": 0.25,
+              "h": 0.2873,
+              "max_chars": 129,
+              "is_expert": true,
+              "is_placard": false
+            },
+            "bubble_2": {
+              "x": 0.6654,
+              "y": 0.1953,
+              "w": 0.3055,
+              "h": 0.1793,
+              "max_chars": 98,
+              "is_expert": false,
+              "is_placard": false
+            },
+            "bubble_3": {
+              "x": 0.4612,
+              "y": 0.6302,
+              "w": 0.2317,
+              "h": 0.2773,
+              "max_chars": 115,
+              "is_expert": false,
+              "is_placard": false
+            }
+          },
+          "image_url": "https://raw.githubusercontent.com/ileoh/portaldata-tirinha-templates/main/t1/slide_03.jpg"
+        },
+        "slide_04": {
+          "narrative_role": "conclusao",
+          "bubble_count": 4,
+          "bubbles": {
+            "bubble_1": {
+              "x": 0.0286,
+              "y": 0.0755,
+              "w": 0.25,
+              "h": 0.2869,
+              "max_chars": 129,
+              "is_expert": true,
+              "is_placard": false
+            },
+            "bubble_2": {
+              "x": 0.6654,
+              "y": 0.1953,
+              "w": 0.3055,
+              "h": 0.1801,
+              "max_chars": 99,
+              "is_expert": false,
+              "is_placard": false
+            },
+            "bubble_3": {
+              "x": 0.1002,
+              "y": 0.4774,
+              "w": 0.2419,
+              "h": 0.2435,
+              "max_chars": 106,
+              "is_expert": false,
+              "is_placard": false
+            },
+            "bubble_4": {
+              "x": 0.4612,
+              "y": 0.6298,
+              "w": 0.2317,
+              "h": 0.2778,
+              "max_chars": 115,
+              "is_expert": false,
+              "is_placard": false
+            }
+          },
+          "image_url": "https://raw.githubusercontent.com/ileoh/portaldata-tirinha-templates/main/t1/slide_04.jpg"
+        },
+        "slide_05": {
+          "narrative_role": "call_to_action",
+          "bubble_count": 4,
+          "bubbles": {
+            "bubble_1": {
+              "x": 0.0286,
+              "y": 0.0755,
+              "w": 0.25,
+              "h": 0.2869,
+              "max_chars": 129,
+              "is_expert": true,
+              "is_placard": false
+            },
+            "bubble_2": {
+              "x": 0.6654,
+              "y": 0.1953,
+              "w": 0.3055,
+              "h": 0.1806,
+              "max_chars": 99,
+              "is_expert": false,
+              "is_placard": false
+            },
+            "bubble_3": {
+              "x": 0.1859,
+              "y": 0.5169,
+              "w": 0.2829,
+              "h": 0.1714,
+              "max_chars": 87,
+              "is_expert": false,
+              "is_placard": true
+            },
+            "bubble_4": {
+              "x": 0.4612,
+              "y": 0.6298,
+              "w": 0.2317,
+              "h": 0.2778,
+              "max_chars": 115,
+              "is_expert": false,
+              "is_placard": false
+            }
+          },
+          "image_url": "https://raw.githubusercontent.com/ileoh/portaldata-tirinha-templates/main/t1/slide_05.jpg"
+        }
+      }
+    },
+    "t2": {
+      "scenario": "Laboratório de tecnologia",
+      "expert_description": "Cientista (jaleco branco, cabelo preso)",
+      "companions": [
+        "Engenheiro",
+        "Estagiária"
+      ],
+      "slides": {
+        "slide_01": {
+          "narrative_role": "abertura",
+          "bubble_count": 3,
+          "bubbles": {
+            "bubble_1": {
+              "x": 0.1778,
+              "y": 0.0391,
+              "w": 0.4407,
+              "h": 0.293,
+              "max_chars": 232,
+              "is_expert": true,
+              "is_placard": false
+            },
+            "bubble_2": {
+              "x": 0.3831,
+              "y": 0.5668,
+              "w": 0.2333,
+              "h": 0.1749,
+              "max_chars": 73,
+              "is_expert": false,
+              "is_placard": true
+            },
+            "bubble_3": {
+              "x": 0.6945,
+              "y": 0.6506,
+              "w": 0.2856,
+              "h": 0.1727,
+              "max_chars": 88,
+              "is_expert": false,
+              "is_placard": true
+            }
+          },
+          "image_url": "https://raw.githubusercontent.com/ileoh/portaldata-tirinha-templates/main/t2/slide_01.jpg"
+        },
+        "slide_02": {
+          "narrative_role": "ceticismo",
+          "bubble_count": 4,
+          "bubbles": {
+            "bubble_1": {
+              "x": 0.1773,
+              "y": 0.0391,
+              "w": 0.4407,
+              "h": 0.293,
+              "max_chars": 232,
+              "is_expert": true,
+              "is_placard": false
+            },
+            "bubble_2": {
+              "x": 0.16,
+              "y": 0.5247,
+              "w": 0.2829,
+              "h": 0.1753,
+              "max_chars": 89,
+              "is_expert": false,
+              "is_placard": true
+            },
+            "bubble_3": {
+              "x": 0.6945,
+              "y": 0.651,
+              "w": 0.2856,
+              "h": 0.1723,
+              "max_chars": 88,
+              "is_expert": false,
+              "is_placard": true
+            },
+            "bubble_4": {
+              "x": 0.3874,
+              "y": 0.674,
+              "w": 0.2689,
+              "h": 0.1745,
+              "max_chars": 84,
+              "is_expert": false,
+              "is_placard": true
+            }
+          },
+          "image_url": "https://raw.githubusercontent.com/ileoh/portaldata-tirinha-templates/main/t2/slide_02.jpg"
+        },
+        "slide_03": {
+          "narrative_role": "curiosidade",
+          "bubble_count": 3,
+          "bubbles": {
+            "bubble_1": {
+              "x": 0.1773,
+              "y": 0.0391,
+              "w": 0.4407,
+              "h": 0.293,
+              "max_chars": 232,
+              "is_expert": true,
+              "is_placard": false
+            },
+            "bubble_2": {
+              "x": 0.6945,
+              "y": 0.6515,
+              "w": 0.2856,
+              "h": 0.1719,
+              "max_chars": 88,
+              "is_expert": false,
+              "is_placard": true
+            },
+            "bubble_3": {
+              "x": 0.3594,
+              "y": 0.6545,
+              "w": 0.264,
+              "h": 0.191,
+              "max_chars": 90,
+              "is_expert": false,
+              "is_placard": true
+            }
+          },
+          "image_url": "https://raw.githubusercontent.com/ileoh/portaldata-tirinha-templates/main/t2/slide_03.jpg"
+        },
+        "slide_04": {
+          "narrative_role": "conclusao",
+          "bubble_count": 4,
+          "bubbles": {
+            "bubble_1": {
+              "x": 0.1773,
+              "y": 0.0391,
+              "w": 0.4407,
+              "h": 0.2925,
+              "max_chars": 232,
+              "is_expert": true,
+              "is_placard": false
+            },
+            "bubble_2": {
+              "x": 0.681,
+              "y": 0.1536,
+              "w": 0.2899,
+              "h": 0.191,
+              "max_chars": 99,
+              "is_expert": false,
+              "is_placard": false
+            },
+            "bubble_3": {
+              "x": 0.3831,
+              "y": 0.5673,
+              "w": 0.2333,
+              "h": 0.1745,
+              "max_chars": 73,
+              "is_expert": false,
+              "is_placard": true
+            },
+            "bubble_4": {
+              "x": 0.6945,
+              "y": 0.6506,
+              "w": 0.2856,
+              "h": 0.1727,
+              "max_chars": 88,
+              "is_expert": false,
+              "is_placard": true
+            }
+          },
+          "image_url": "https://raw.githubusercontent.com/ileoh/portaldata-tirinha-templates/main/t2/slide_04.jpg"
+        },
+        "slide_05": {
+          "narrative_role": "call_to_action",
+          "bubble_count": 4,
+          "bubbles": {
+            "bubble_1": {
+              "x": 0.1773,
+              "y": 0.0391,
+              "w": 0.4407,
+              "h": 0.293,
+              "max_chars": 232,
+              "is_expert": true,
+              "is_placard": false
+            },
+            "bubble_2": {
+              "x": 0.1352,
+              "y": 0.5638,
+              "w": 0.2198,
+              "h": 0.1263,
+              "max_chars": 49,
+              "is_expert": false,
+              "is_placard": true
+            },
+            "bubble_3": {
+              "x": 0.3831,
+              "y": 0.5668,
+              "w": 0.2333,
+              "h": 0.1749,
+              "max_chars": 73,
+              "is_expert": false,
+              "is_placard": true
+            },
+            "bubble_4": {
+              "x": 0.6945,
+              "y": 0.651,
+              "w": 0.2856,
+              "h": 0.1723,
+              "max_chars": 88,
+              "is_expert": false,
+              "is_placard": true
+            }
+          },
+          "image_url": "https://raw.githubusercontent.com/ileoh/portaldata-tirinha-templates/main/t2/slide_05.jpg"
+        }
+      }
+    },
+    "t3": {
+      "scenario": "Escritório corporativo moderno",
+      "expert_description": "Executivo sênior (terno, cabelo prata)",
+      "companions": [
+        "Analista",
+        "Designer"
+      ],
+      "slides": {
+        "slide_01": {
+          "narrative_role": "abertura",
+          "bubble_count": 3,
+          "bubbles": {
+            "bubble_1": {
+              "x": 0.0426,
+              "y": 0.1137,
+              "w": 0.3782,
+              "h": 0.2001,
+              "max_chars": 136,
+              "is_expert": true,
+              "is_placard": false
+            },
+            "bubble_2": {
+              "x": 0.6934,
+              "y": 0.6094,
+              "w": 0.2818,
+              "h": 0.1697,
+              "max_chars": 86,
+              "is_expert": false,
+              "is_placard": true
+            },
+            "bubble_3": {
+              "x": 0.2839,
+              "y": 0.6892,
+              "w": 0.3114,
+              "h": 0.1966,
+              "max_chars": 110,
+              "is_expert": false,
+              "is_placard": true
+            }
+          },
+          "image_url": "https://raw.githubusercontent.com/ileoh/portaldata-tirinha-templates/main/t3/slide_01.jpg"
+        },
+        "slide_02": {
+          "narrative_role": "ceticismo",
+          "bubble_count": 4,
+          "bubbles": {
+            "bubble_1": {
+              "x": 0.0426,
+              "y": 0.1137,
+              "w": 0.3782,
+              "h": 0.2001,
+              "max_chars": 136,
+              "is_expert": true,
+              "is_placard": false
+            },
+            "bubble_2": {
+              "x": 0.0679,
+              "y": 0.4709,
+              "w": 0.2866,
+              "h": 0.158,
+              "max_chars": 81,
+              "is_expert": false,
+              "is_placard": true
+            },
+            "bubble_3": {
+              "x": 0.6934,
+              "y": 0.6085,
+              "w": 0.2818,
+              "h": 0.1706,
+              "max_chars": 86,
+              "is_expert": false,
+              "is_placard": true
+            },
+            "bubble_4": {
+              "x": 0.2839,
+              "y": 0.6892,
+              "w": 0.3114,
+              "h": 0.1966,
+              "max_chars": 110,
+              "is_expert": false,
+              "is_placard": true
+            }
+          },
+          "image_url": "https://raw.githubusercontent.com/ileoh/portaldata-tirinha-templates/main/t3/slide_02.jpg"
+        },
+        "slide_03": {
+          "narrative_role": "curiosidade",
+          "bubble_count": 3,
+          "bubbles": {
+            "bubble_1": {
+              "x": 0.0426,
+              "y": 0.1137,
+              "w": 0.3782,
+              "h": 0.2001,
+              "max_chars": 136,
+              "is_expert": true,
+              "is_placard": false
+            },
+            "bubble_2": {
+              "x": 0.6934,
+              "y": 0.6094,
+              "w": 0.2818,
+              "h": 0.1697,
+              "max_chars": 86,
+              "is_expert": false,
+              "is_placard": true
+            },
+            "bubble_3": {
+              "x": 0.2839,
+              "y": 0.6892,
+              "w": 0.3114,
+              "h": 0.1966,
+              "max_chars": 110,
+              "is_expert": false,
+              "is_placard": true
+            }
+          },
+          "image_url": "https://raw.githubusercontent.com/ileoh/portaldata-tirinha-templates/main/t3/slide_03.jpg"
+        },
+        "slide_04": {
+          "narrative_role": "conclusao",
+          "bubble_count": 4,
+          "bubbles": {
+            "bubble_1": {
+              "x": 0.0426,
+              "y": 0.1137,
+              "w": 0.3782,
+              "h": 0.2001,
+              "max_chars": 136,
+              "is_expert": true,
+              "is_placard": false
+            },
+            "bubble_2": {
+              "x": 0.1622,
+              "y": 0.4748,
+              "w": 0.1891,
+              "h": 0.1155,
+              "max_chars": 39,
+              "is_expert": false,
+              "is_placard": true
+            },
+            "bubble_3": {
+              "x": 0.6934,
+              "y": 0.6089,
+              "w": 0.2818,
+              "h": 0.1701,
+              "max_chars": 86,
+              "is_expert": false,
+              "is_placard": true
+            },
+            "bubble_4": {
+              "x": 0.2839,
+              "y": 0.6892,
+              "w": 0.3114,
+              "h": 0.197,
+              "max_chars": 110,
+              "is_expert": false,
+              "is_placard": true
+            }
+          },
+          "image_url": "https://raw.githubusercontent.com/ileoh/portaldata-tirinha-templates/main/t3/slide_04.jpg"
+        },
+        "slide_05": {
+          "narrative_role": "call_to_action",
+          "bubble_count": 4,
+          "bubbles": {
+            "bubble_1": {
+              "x": 0.0426,
+              "y": 0.1137,
+              "w": 0.3782,
+              "h": 0.2001,
+              "max_chars": 136,
+              "is_expert": true,
+              "is_placard": false
+            },
+            "bubble_2": {
+              "x": 0.1261,
+              "y": 0.4944,
+              "w": 0.1719,
+              "h": 0.1016,
+              "max_chars": 31,
+              "is_expert": false,
+              "is_placard": true
+            },
+            "bubble_3": {
+              "x": 0.6934,
+              "y": 0.6094,
+              "w": 0.2818,
+              "h": 0.1697,
+              "max_chars": 86,
+              "is_expert": false,
+              "is_placard": true
+            },
+            "bubble_4": {
+              "x": 0.2839,
+              "y": 0.6892,
+              "w": 0.3114,
+              "h": 0.197,
+              "max_chars": 110,
+              "is_expert": false,
+              "is_placard": true
+            }
+          },
+          "image_url": "https://raw.githubusercontent.com/ileoh/portaldata-tirinha-templates/main/t3/slide_05.jpg"
+        }
+      }
+    },
+    "t4": {
+      "scenario": "Café / coworking",
+      "expert_description": "Especialista em dados (moletom, barba)",
+      "companions": [
+        "Empreendedor",
+        "Jornalista"
+      ],
+      "slides": {
+        "slide_01": {
+          "narrative_role": "abertura",
+          "bubble_count": 3,
+          "bubbles": {
+            "bubble_1": {
+              "x": 0.0388,
+              "y": 0.181,
+              "w": 0.3055,
+              "h": 0.2174,
+              "max_chars": 119,
+              "is_expert": true,
+              "is_placard": false
+            },
+            "bubble_2": {
+              "x": 0.7193,
+              "y": 0.6241,
+              "w": 0.2532,
+              "h": 0.1997,
+              "max_chars": 91,
+              "is_expert": false,
+              "is_placard": true
+            },
+            "bubble_3": {
+              "x": 0.3357,
+              "y": 0.6684,
+              "w": 0.2554,
+              "h": 0.197,
+              "max_chars": 90,
+              "is_expert": false,
+              "is_placard": true
+            }
+          },
+          "image_url": "https://raw.githubusercontent.com/ileoh/portaldata-tirinha-templates/main/t4/slide_01.jpg"
+        },
+        "slide_02": {
+          "narrative_role": "ceticismo",
+          "bubble_count": 3,
+          "bubbles": {
+            "bubble_1": {
+              "x": 0.0388,
+              "y": 0.1814,
+              "w": 0.3055,
+              "h": 0.217,
+              "max_chars": 119,
+              "is_expert": true,
+              "is_placard": false
+            },
+            "bubble_2": {
+              "x": 0.7193,
+              "y": 0.6241,
+              "w": 0.2532,
+              "h": 0.1997,
+              "max_chars": 91,
+              "is_expert": false,
+              "is_placard": true
+            },
+            "bubble_3": {
+              "x": 0.3357,
+              "y": 0.6684,
+              "w": 0.2554,
+              "h": 0.197,
+              "max_chars": 90,
+              "is_expert": false,
+              "is_placard": true
+            }
+          },
+          "image_url": "https://raw.githubusercontent.com/ileoh/portaldata-tirinha-templates/main/t4/slide_02.jpg"
+        },
+        "slide_03": {
+          "narrative_role": "curiosidade",
+          "bubble_count": 4,
+          "bubbles": {
+            "bubble_1": {
+              "x": 0.0388,
+              "y": 0.1814,
+              "w": 0.3055,
+              "h": 0.217,
+              "max_chars": 119,
+              "is_expert": true,
+              "is_placard": false
+            },
+            "bubble_2": {
+              "x": 0.694,
+              "y": 0.1866,
+              "w": 0.2845,
+              "h": 0.2001,
+              "max_chars": 102,
+              "is_expert": false,
+              "is_placard": false
+            },
+            "bubble_3": {
+              "x": 0.7193,
+              "y": 0.6285,
+              "w": 0.2532,
+              "h": 0.1953,
+              "max_chars": 89,
+              "is_expert": false,
+              "is_placard": true
+            },
+            "bubble_4": {
+              "x": 0.3357,
+              "y": 0.6684,
+              "w": 0.2554,
+              "h": 0.197,
+              "max_chars": 90,
+              "is_expert": false,
+              "is_placard": true
+            }
+          },
+          "image_url": "https://raw.githubusercontent.com/ileoh/portaldata-tirinha-templates/main/t4/slide_03.jpg"
+        },
+        "slide_04": {
+          "narrative_role": "conclusao",
+          "bubble_count": 3,
+          "bubbles": {
+            "bubble_1": {
+              "x": 0.0388,
+              "y": 0.1814,
+              "w": 0.3055,
+              "h": 0.217,
+              "max_chars": 119,
+              "is_expert": true,
+              "is_placard": false
+            },
+            "bubble_2": {
+              "x": 0.3987,
+              "y": 0.1997,
+              "w": 0.2548,
+              "h": 0.1775,
+              "max_chars": 81,
+              "is_expert": false,
+              "is_placard": false
+            },
+            "bubble_3": {
+              "x": 0.7074,
+              "y": 0.2214,
+              "w": 0.2527,
+              "h": 0.1797,
+              "max_chars": 81,
+              "is_expert": false,
+              "is_placard": false
+            }
+          },
+          "image_url": "https://raw.githubusercontent.com/ileoh/portaldata-tirinha-templates/main/t4/slide_04.jpg"
+        },
+        "slide_05": {
+          "narrative_role": "call_to_action",
+          "bubble_count": 3,
+          "bubbles": {
+            "bubble_1": {
+              "x": 0.0388,
+              "y": 0.1814,
+              "w": 0.3055,
+              "h": 0.217,
+              "max_chars": 119,
+              "is_expert": true,
+              "is_placard": false
+            },
+            "bubble_2": {
+              "x": 0.7193,
+              "y": 0.6272,
+              "w": 0.2532,
+              "h": 0.1966,
+              "max_chars": 89,
+              "is_expert": false,
+              "is_placard": true
+            },
+            "bubble_3": {
+              "x": 0.3357,
+              "y": 0.6684,
+              "w": 0.2554,
+              "h": 0.197,
+              "max_chars": 90,
+              "is_expert": false,
+              "is_placard": true
+            }
+          },
+          "image_url": "https://raw.githubusercontent.com/ileoh/portaldata-tirinha-templates/main/t4/slide_05.jpg"
+        }
+      }
+    },
+    "t5": {
+      "scenario": "Cidade futurista ao ar livre",
+      "expert_description": "Pesquisador de IA (jaqueta tech)",
+      "companions": [
+        "Adolescente",
+        "Profissional"
+      ],
+      "slides": {
+        "slide_01": {
+          "narrative_role": "abertura",
+          "bubble_count": 3,
+          "bubbles": {
+            "bubble_1": {
+              "x": 0.0383,
+              "y": 0.2352,
+              "w": 0.2478,
+              "h": 0.1497,
+              "max_chars": 66,
+              "is_expert": true,
+              "is_placard": false
+            },
+            "bubble_2": {
+              "x": 0.7985,
+              "y": 0.6302,
+              "w": 0.1773,
+              "h": 0.1315,
+              "max_chars": 41,
+              "is_expert": false,
+              "is_placard": true
+            },
+            "bubble_3": {
+              "x": 0.4009,
+              "y": 0.6645,
+              "w": 0.2031,
+              "h": 0.1398,
+              "max_chars": 51,
+              "is_expert": false,
+              "is_placard": true
+            }
+          },
+          "image_url": "https://raw.githubusercontent.com/ileoh/portaldata-tirinha-templates/main/t5/slide_01.jpg"
+        },
+        "slide_02": {
+          "narrative_role": "ceticismo",
+          "bubble_count": 3,
+          "bubbles": {
+            "bubble_1": {
+              "x": 0.0383,
+              "y": 0.2352,
+              "w": 0.2478,
+              "h": 0.1493,
+              "max_chars": 66,
+              "is_expert": true,
+              "is_placard": false
+            },
+            "bubble_2": {
+              "x": 0.798,
+              "y": 0.6302,
+              "w": 0.1778,
+              "h": 0.1315,
+              "max_chars": 42,
+              "is_expert": false,
+              "is_placard": true
+            },
+            "bubble_3": {
+              "x": 0.4009,
+              "y": 0.6645,
+              "w": 0.2031,
+              "h": 0.1398,
+              "max_chars": 51,
+              "is_expert": false,
+              "is_placard": true
+            }
+          },
+          "image_url": "https://raw.githubusercontent.com/ileoh/portaldata-tirinha-templates/main/t5/slide_02.jpg"
+        },
+        "slide_03": {
+          "narrative_role": "curiosidade",
+          "bubble_count": 3,
+          "bubbles": {
+            "bubble_1": {
+              "x": 0.0383,
+              "y": 0.2352,
+              "w": 0.2478,
+              "h": 0.1493,
+              "max_chars": 66,
+              "is_expert": true,
+              "is_placard": false
+            },
+            "bubble_2": {
+              "x": 0.7985,
+              "y": 0.6302,
+              "w": 0.1773,
+              "h": 0.1315,
+              "max_chars": 41,
+              "is_expert": false,
+              "is_placard": true
+            },
+            "bubble_3": {
+              "x": 0.4009,
+              "y": 0.6645,
+              "w": 0.2031,
+              "h": 0.1398,
+              "max_chars": 51,
+              "is_expert": false,
+              "is_placard": true
+            }
+          },
+          "image_url": "https://raw.githubusercontent.com/ileoh/portaldata-tirinha-templates/main/t5/slide_03.jpg"
+        },
+        "slide_04": {
+          "narrative_role": "conclusao",
+          "bubble_count": 4,
+          "bubbles": {
+            "bubble_1": {
+              "x": 0.0383,
+              "y": 0.2352,
+              "w": 0.2478,
+              "h": 0.1493,
+              "max_chars": 66,
+              "is_expert": true,
+              "is_placard": false
+            },
+            "bubble_2": {
+              "x": 0.7915,
+              "y": 0.2635,
+              "w": 0.1907,
+              "h": 0.1207,
+              "max_chars": 41,
+              "is_expert": false,
+              "is_placard": false
+            },
+            "bubble_3": {
+              "x": 0.7985,
+              "y": 0.6302,
+              "w": 0.1773,
+              "h": 0.1315,
+              "max_chars": 41,
+              "is_expert": false,
+              "is_placard": true
+            },
+            "bubble_4": {
+              "x": 0.4009,
+              "y": 0.6645,
+              "w": 0.2031,
+              "h": 0.1398,
+              "max_chars": 51,
+              "is_expert": false,
+              "is_placard": true
+            }
+          },
+          "image_url": "https://raw.githubusercontent.com/ileoh/portaldata-tirinha-templates/main/t5/slide_04.jpg"
+        },
+        "slide_05": {
+          "narrative_role": "call_to_action",
+          "bubble_count": 3,
+          "bubbles": {
+            "bubble_1": {
+              "x": 0.0377,
+              "y": 0.2352,
+              "w": 0.2484,
+              "h": 0.1493,
+              "max_chars": 66,
+              "is_expert": true,
+              "is_placard": false
+            },
+            "bubble_2": {
+              "x": 0.7985,
+              "y": 0.6302,
+              "w": 0.1773,
+              "h": 0.1315,
+              "max_chars": 41,
+              "is_expert": false,
+              "is_placard": true
+            },
+            "bubble_3": {
+              "x": 0.4009,
+              "y": 0.6645,
+              "w": 0.2031,
+              "h": 0.1398,
+              "max_chars": 51,
+              "is_expert": false,
+              "is_placard": true
+            }
+          },
+          "image_url": "https://raw.githubusercontent.com/ileoh/portaldata-tirinha-templates/main/t5/slide_05.jpg"
+        }
+      }
+    }
+  },
+  "base_url": "https://raw.githubusercontent.com/ileoh/portaldata-tirinha-templates/main"
+}
