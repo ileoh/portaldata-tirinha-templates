@@ -472,7 +472,7 @@
         },
         "slide_04": {
           "narrative_role": "conclusao",
-          "bubble_count": 4,
+          "bubble_count": 3,
           "image_url": "https://cdn.jsdelivr.net/gh/ileoh/portaldata-tirinha-templates@main/t2/slide_04.jpg",
           "bubbles": {
             "bubble_1": {
@@ -517,7 +517,7 @@
             "bubble_4": {
               "role": "girl",
               "is_expert": false,
-              "skip": false,
+              "skip": true,
               "text_area": {
                 "x": 0.72306,
                 "y": 0.67014,
@@ -991,7 +991,7 @@
         },
         "slide_03": {
           "narrative_role": "curiosidade",
-          "bubble_count": 4,
+          "bubble_count": 3,
           "image_url": "https://cdn.jsdelivr.net/gh/ileoh/portaldata-tirinha-templates@main/t4/slide_03.jpg",
           "bubbles": {
             "bubble_1": {
@@ -1023,7 +1023,7 @@
             "bubble_3": {
               "role": "girl",
               "is_expert": false,
-              "skip": false,
+              "skip": true,
               "text_area": {
                 "x": 0.74461,
                 "y": 0.64627,
