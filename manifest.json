@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "image_size": {
     "w": 1856,
     "h": 2304
@@ -19,6 +19,16 @@
         "Aluno",
         "Aluna"
       ],
+      "cover": {
+        "image_url": "https://raw.githubusercontent.com/ileoh/portaldata-tirinha-templates/main/covers/t1.jpg",
+        "text_area": {
+          "x": 0.20718,
+          "y": 0.05176,
+          "w": 0.58565,
+          "h": 0.09667
+        },
+        "recommended_font_size_px": 102
+      },
       "slides": {
         "slide_01": {
           "narrative_role": "abertura",
@@ -28,6 +38,7 @@
             "bubble_1": {
               "role": "specialist",
               "is_expert": true,
+              "skip": false,
               "text_area": {
                 "x": 0.05334,
                 "y": 0.1033,
@@ -40,6 +51,7 @@
             "bubble_2": {
               "role": "girl",
               "is_expert": false,
+              "skip": false,
               "text_area": {
                 "x": 0.69558,
                 "y": 0.21224,
@@ -52,6 +64,7 @@
             "bubble_3": {
               "role": "student",
               "is_expert": false,
+              "skip": false,
               "text_area": {
                 "x": 0.48438,
                 "y": 0.66146,
@@ -65,12 +78,13 @@
         },
         "slide_02": {
           "narrative_role": "ceticismo",
-          "bubble_count": 4,
+          "bubble_count": 3,
           "image_url": "https://raw.githubusercontent.com/ileoh/portaldata-tirinha-templates/main/t1/slide_02.jpg",
           "bubbles": {
             "bubble_1": {
               "role": "specialist",
               "is_expert": true,
+              "skip": false,
               "text_area": {
                 "x": 0.05334,
                 "y": 0.1033,
@@ -83,6 +97,7 @@
             "bubble_2": {
               "role": "girl",
               "is_expert": false,
+              "skip": false,
               "text_area": {
                 "x": 0.69558,
                 "y": 0.21267,
@@ -95,6 +110,7 @@
             "bubble_3": {
               "role": "specialist",
               "is_expert": false,
+              "skip": true,
               "text_area": {
                 "x": 0.1778,
                 "y": 0.55165,
@@ -107,6 +123,7 @@
             "bubble_4": {
               "role": "student",
               "is_expert": false,
+              "skip": false,
               "text_area": {
                 "x": 0.48384,
                 "y": 0.71224,
@@ -126,6 +143,7 @@
             "bubble_1": {
               "role": "specialist",
               "is_expert": true,
+              "skip": false,
               "text_area": {
                 "x": 0.05334,
                 "y": 0.1033,
@@ -138,6 +156,7 @@
             "bubble_2": {
               "role": "girl",
               "is_expert": false,
+              "skip": false,
               "text_area": {
                 "x": 0.69558,
                 "y": 0.21224,
@@ -150,6 +169,7 @@
             "bubble_3": {
               "role": "student",
               "is_expert": false,
+              "skip": false,
               "text_area": {
                 "x": 0.48438,
                 "y": 0.66146,
@@ -163,12 +183,13 @@
         },
         "slide_04": {
           "narrative_role": "conclusao",
-          "bubble_count": 4,
+          "bubble_count": 3,
           "image_url": "https://raw.githubusercontent.com/ileoh/portaldata-tirinha-templates/main/t1/slide_04.jpg",
           "bubbles": {
             "bubble_1": {
               "role": "specialist",
               "is_expert": true,
+              "skip": false,
               "text_area": {
                 "x": 0.05334,
                 "y": 0.10373,
@@ -181,6 +202,7 @@
             "bubble_2": {
               "role": "girl",
               "is_expert": false,
+              "skip": false,
               "text_area": {
                 "x": 0.69558,
                 "y": 0.21224,
@@ -193,6 +215,7 @@
             "bubble_3": {
               "role": "specialist",
               "is_expert": false,
+              "skip": true,
               "text_area": {
                 "x": 0.12392,
                 "y": 0.50174,
@@ -205,6 +228,7 @@
             "bubble_4": {
               "role": "student",
               "is_expert": false,
+              "skip": false,
               "text_area": {
                 "x": 0.48438,
                 "y": 0.66146,
@@ -218,12 +242,13 @@
         },
         "slide_05": {
           "narrative_role": "call_to_action",
-          "bubble_count": 4,
+          "bubble_count": 3,
           "image_url": "https://raw.githubusercontent.com/ileoh/portaldata-tirinha-templates/main/t1/slide_05.jpg",
           "bubbles": {
             "bubble_1": {
               "role": "specialist",
               "is_expert": true,
+              "skip": false,
               "text_area": {
                 "x": 0.05334,
                 "y": 0.1033,
@@ -236,6 +261,7 @@
             "bubble_2": {
               "role": "girl",
               "is_expert": false,
+              "skip": false,
               "text_area": {
                 "x": 0.69558,
                 "y": 0.21267,
@@ -248,6 +274,7 @@
             "bubble_3": {
               "role": "specialist",
               "is_expert": false,
+              "skip": true,
               "text_area": {
                 "x": 0.2139,
                 "y": 0.53385,
@@ -260,6 +287,7 @@
             "bubble_4": {
               "role": "student",
               "is_expert": false,
+              "skip": false,
               "text_area": {
                 "x": 0.48438,
                 "y": 0.66146,
@@ -280,6 +308,16 @@
         "Engenheiro",
         "Estagiária"
       ],
+      "cover": {
+        "image_url": "https://raw.githubusercontent.com/ileoh/portaldata-tirinha-templates/main/covers/t2.jpg",
+        "text_area": {
+          "x": 0.16425,
+          "y": 0.09134,
+          "w": 0.6725,
+          "h": 0.13323
+        },
+        "recommended_font_size_px": 141
+      },
       "slides": {
         "slide_01": {
           "narrative_role": "abertura",
@@ -289,6 +327,7 @@
             "bubble_1": {
               "role": "specialist",
               "is_expert": true,
+              "skip": false,
               "text_area": {
                 "x": 0.22091,
                 "y": 0.06814,
@@ -301,6 +340,7 @@
             "bubble_2": {
               "role": "student",
               "is_expert": false,
+              "skip": false,
               "text_area": {
                 "x": 0.40625,
                 "y": 0.5855,
@@ -313,6 +353,7 @@
             "bubble_3": {
               "role": "girl",
               "is_expert": false,
+              "skip": false,
               "text_area": {
                 "x": 0.72306,
                 "y": 0.67014,
@@ -326,12 +367,13 @@
         },
         "slide_02": {
           "narrative_role": "ceticismo",
-          "bubble_count": 4,
+          "bubble_count": 3,
           "image_url": "https://raw.githubusercontent.com/ileoh/portaldata-tirinha-templates/main/t2/slide_02.jpg",
           "bubbles": {
             "bubble_1": {
               "role": "specialist",
               "is_expert": true,
+              "skip": false,
               "text_area": {
                 "x": 0.22091,
                 "y": 0.06771,
@@ -344,6 +386,7 @@
             "bubble_2": {
               "role": "specialist",
               "is_expert": false,
+              "skip": true,
               "text_area": {
                 "x": 0.18804,
                 "y": 0.5421,
@@ -356,6 +399,7 @@
             "bubble_3": {
               "role": "girl",
               "is_expert": false,
+              "skip": false,
               "text_area": {
                 "x": 0.72306,
                 "y": 0.67014,
@@ -368,6 +412,7 @@
             "bubble_4": {
               "role": "student",
               "is_expert": false,
+              "skip": false,
               "text_area": {
                 "x": 0.41433,
                 "y": 0.69271,
@@ -387,6 +432,7 @@
             "bubble_1": {
               "role": "specialist",
               "is_expert": true,
+              "skip": false,
               "text_area": {
                 "x": 0.22091,
                 "y": 0.06771,
@@ -399,6 +445,7 @@
             "bubble_2": {
               "role": "girl",
               "is_expert": false,
+              "skip": false,
               "text_area": {
                 "x": 0.72306,
                 "y": 0.67014,
@@ -411,6 +458,7 @@
             "bubble_3": {
               "role": "student",
               "is_expert": false,
+              "skip": false,
               "text_area": {
                 "x": 0.38578,
                 "y": 0.67535,
@@ -430,6 +478,7 @@
             "bubble_1": {
               "role": "specialist",
               "is_expert": true,
+              "skip": false,
               "text_area": {
                 "x": 0.22091,
                 "y": 0.06771,
@@ -442,6 +491,7 @@
             "bubble_2": {
               "role": "girl",
               "is_expert": false,
+              "skip": false,
               "text_area": {
                 "x": 0.70959,
                 "y": 0.17231,
@@ -454,6 +504,7 @@
             "bubble_3": {
               "role": "student",
               "is_expert": false,
+              "skip": false,
               "text_area": {
                 "x": 0.40625,
                 "y": 0.5855,
@@ -466,6 +517,7 @@
             "bubble_4": {
               "role": "girl",
               "is_expert": false,
+              "skip": false,
               "text_area": {
                 "x": 0.72306,
                 "y": 0.67014,
@@ -479,12 +531,13 @@
         },
         "slide_05": {
           "narrative_role": "call_to_action",
-          "bubble_count": 4,
+          "bubble_count": 3,
           "image_url": "https://raw.githubusercontent.com/ileoh/portaldata-tirinha-templates/main/t2/slide_05.jpg",
           "bubbles": {
             "bubble_1": {
               "role": "specialist",
               "is_expert": true,
+              "skip": false,
               "text_area": {
                 "x": 0.22091,
                 "y": 0.06771,
@@ -497,6 +550,7 @@
             "bubble_2": {
               "role": "specialist",
               "is_expert": false,
+              "skip": true,
               "text_area": {
                 "x": 0.15679,
                 "y": 0.57639,
@@ -509,6 +563,7 @@
             "bubble_3": {
               "role": "student",
               "is_expert": false,
+              "skip": false,
               "text_area": {
                 "x": 0.40625,
                 "y": 0.5855,
@@ -521,6 +576,7 @@
             "bubble_4": {
               "role": "girl",
               "is_expert": false,
+              "skip": false,
               "text_area": {
                 "x": 0.72306,
                 "y": 0.67014,
@@ -541,6 +597,16 @@
         "Analista",
         "Designer"
       ],
+      "cover": {
+        "image_url": "https://raw.githubusercontent.com/ileoh/portaldata-tirinha-templates/main/covers/t3.jpg",
+        "text_area": {
+          "x": 0.16879,
+          "y": 0.12744,
+          "w": 0.66352,
+          "h": 0.09272
+        },
+        "recommended_font_size_px": 98
+      },
       "slides": {
         "slide_01": {
           "narrative_role": "abertura",
@@ -550,6 +616,7 @@
             "bubble_1": {
               "role": "specialist",
               "is_expert": true,
+              "skip": false,
               "text_area": {
                 "x": 0.08028,
                 "y": 0.13325,
@@ -562,6 +629,7 @@
             "bubble_2": {
               "role": "girl",
               "is_expert": false,
+              "skip": false,
               "text_area": {
                 "x": 0.72144,
                 "y": 0.62847,
@@ -574,6 +642,7 @@
             "bubble_3": {
               "role": "student",
               "is_expert": false,
+              "skip": false,
               "text_area": {
                 "x": 0.31466,
                 "y": 0.71094,
@@ -587,12 +656,13 @@
         },
         "slide_02": {
           "narrative_role": "ceticismo",
-          "bubble_count": 4,
+          "bubble_count": 3,
           "image_url": "https://raw.githubusercontent.com/ileoh/portaldata-tirinha-templates/main/t3/slide_02.jpg",
           "bubbles": {
             "bubble_1": {
               "role": "specialist",
               "is_expert": true,
+              "skip": false,
               "text_area": {
                 "x": 0.08028,
                 "y": 0.13325,
@@ -605,6 +675,7 @@
             "bubble_2": {
               "role": "specialist",
               "is_expert": false,
+              "skip": true,
               "text_area": {
                 "x": 0.09375,
                 "y": 0.48655,
@@ -617,6 +688,7 @@
             "bubble_3": {
               "role": "girl",
               "is_expert": false,
+              "skip": false,
               "text_area": {
                 "x": 0.72144,
                 "y": 0.6276,
@@ -629,6 +701,7 @@
             "bubble_4": {
               "role": "student",
               "is_expert": false,
+              "skip": false,
               "text_area": {
                 "x": 0.31412,
                 "y": 0.71094,
@@ -648,6 +721,7 @@
             "bubble_1": {
               "role": "specialist",
               "is_expert": true,
+              "skip": false,
               "text_area": {
                 "x": 0.08028,
                 "y": 0.13325,
@@ -660,6 +734,7 @@
             "bubble_2": {
               "role": "girl",
               "is_expert": false,
+              "skip": false,
               "text_area": {
                 "x": 0.72144,
                 "y": 0.6276,
@@ -672,6 +747,7 @@
             "bubble_3": {
               "role": "student",
               "is_expert": false,
+              "skip": false,
               "text_area": {
                 "x": 0.31466,
                 "y": 0.71094,
@@ -685,12 +761,13 @@
         },
         "slide_04": {
           "narrative_role": "conclusao",
-          "bubble_count": 4,
+          "bubble_count": 3,
           "image_url": "https://raw.githubusercontent.com/ileoh/portaldata-tirinha-templates/main/t3/slide_04.jpg",
           "bubbles": {
             "bubble_1": {
               "role": "specialist",
               "is_expert": true,
+              "skip": false,
               "text_area": {
                 "x": 0.08028,
                 "y": 0.13325,
@@ -703,6 +780,7 @@
             "bubble_2": {
               "role": "specialist",
               "is_expert": false,
+              "skip": true,
               "text_area": {
                 "x": 0.18103,
                 "y": 0.48611,
@@ -715,6 +793,7 @@
             "bubble_3": {
               "role": "girl",
               "is_expert": false,
+              "skip": false,
               "text_area": {
                 "x": 0.72144,
                 "y": 0.6276,
@@ -727,6 +806,7 @@
             "bubble_4": {
               "role": "student",
               "is_expert": false,
+              "skip": false,
               "text_area": {
                 "x": 0.31466,
                 "y": 0.7105,
@@ -740,12 +820,13 @@
         },
         "slide_05": {
           "narrative_role": "call_to_action",
-          "bubble_count": 4,
+          "bubble_count": 3,
           "image_url": "https://raw.githubusercontent.com/ileoh/portaldata-tirinha-templates/main/t3/slide_05.jpg",
           "bubbles": {
             "bubble_1": {
               "role": "specialist",
               "is_expert": true,
+              "skip": false,
               "text_area": {
                 "x": 0.08028,
                 "y": 0.13325,
@@ -758,6 +839,7 @@
             "bubble_2": {
               "role": "specialist",
               "is_expert": false,
+              "skip": true,
               "text_area": {
                 "x": 0.14278,
                 "y": 0.50391,
@@ -770,6 +852,7 @@
             "bubble_3": {
               "role": "girl",
               "is_expert": false,
+              "skip": false,
               "text_area": {
                 "x": 0.72144,
                 "y": 0.62847,
@@ -782,6 +865,7 @@
             "bubble_4": {
               "role": "student",
               "is_expert": false,
+              "skip": false,
               "text_area": {
                 "x": 0.31466,
                 "y": 0.71094,
@@ -802,6 +886,16 @@
         "Empreendedor",
         "Jornalista"
       ],
+      "cover": {
+        "image_url": "https://raw.githubusercontent.com/ileoh/portaldata-tirinha-templates/main/covers/t4.jpg",
+        "text_area": {
+          "x": 0.2175,
+          "y": 0.06882,
+          "w": 0.58699,
+          "h": 0.05905
+        },
+        "recommended_font_size_px": 62
+      },
       "slides": {
         "slide_01": {
           "narrative_role": "abertura",
@@ -811,6 +905,7 @@
             "bubble_1": {
               "role": "specialist",
               "is_expert": true,
+              "skip": false,
               "text_area": {
                 "x": 0.06897,
                 "y": 0.20226,
@@ -823,6 +918,7 @@
             "bubble_2": {
               "role": "girl",
               "is_expert": false,
+              "skip": false,
               "text_area": {
                 "x": 0.74461,
                 "y": 0.64627,
@@ -835,6 +931,7 @@
             "bubble_3": {
               "role": "student",
               "is_expert": false,
+              "skip": false,
               "text_area": {
                 "x": 0.36045,
                 "y": 0.6901,
@@ -854,6 +951,7 @@
             "bubble_1": {
               "role": "specialist",
               "is_expert": true,
+              "skip": false,
               "text_area": {
                 "x": 0.06897,
                 "y": 0.20226,
@@ -866,6 +964,7 @@
             "bubble_2": {
               "role": "girl",
               "is_expert": false,
+              "skip": false,
               "text_area": {
                 "x": 0.74461,
                 "y": 0.64627,
@@ -878,6 +977,7 @@
             "bubble_3": {
               "role": "student",
               "is_expert": false,
+              "skip": false,
               "text_area": {
                 "x": 0.36099,
                 "y": 0.6901,
@@ -897,6 +997,7 @@
             "bubble_1": {
               "role": "specialist",
               "is_expert": true,
+              "skip": false,
               "text_area": {
                 "x": 0.06897,
                 "y": 0.20226,
@@ -909,6 +1010,7 @@
             "bubble_2": {
               "role": "girl",
               "is_expert": false,
+              "skip": false,
               "text_area": {
                 "x": 0.72198,
                 "y": 0.2066,
@@ -921,6 +1023,7 @@
             "bubble_3": {
               "role": "girl",
               "is_expert": false,
+              "skip": false,
               "text_area": {
                 "x": 0.74461,
                 "y": 0.64627,
@@ -933,6 +1036,7 @@
             "bubble_4": {
               "role": "student",
               "is_expert": false,
+              "skip": false,
               "text_area": {
                 "x": 0.36045,
                 "y": 0.6901,
@@ -952,6 +1056,7 @@
             "bubble_1": {
               "role": "specialist",
               "is_expert": true,
+              "skip": false,
               "text_area": {
                 "x": 0.06897,
                 "y": 0.20226,
@@ -964,6 +1069,7 @@
             "bubble_2": {
               "role": "student",
               "is_expert": false,
+              "skip": false,
               "text_area": {
                 "x": 0.42403,
                 "y": 0.21658,
@@ -976,6 +1082,7 @@
             "bubble_3": {
               "role": "girl",
               "is_expert": false,
+              "skip": false,
               "text_area": {
                 "x": 0.73276,
                 "y": 0.23872,
@@ -995,6 +1102,7 @@
             "bubble_1": {
               "role": "specialist",
               "is_expert": true,
+              "skip": false,
               "text_area": {
                 "x": 0.06897,
                 "y": 0.20226,
@@ -1007,6 +1115,7 @@
             "bubble_2": {
               "role": "girl",
               "is_expert": false,
+              "skip": false,
               "text_area": {
                 "x": 0.74461,
                 "y": 0.64627,
@@ -1019,6 +1128,7 @@
             "bubble_3": {
               "role": "student",
               "is_expert": false,
+              "skip": false,
               "text_area": {
                 "x": 0.36045,
                 "y": 0.6901,
@@ -1039,6 +1149,16 @@
         "Adolescente",
         "Profissional"
       ],
+      "cover": {
+        "image_url": "https://raw.githubusercontent.com/ileoh/portaldata-tirinha-templates/main/covers/t5.jpg",
+        "text_area": {
+          "x": 0.13141,
+          "y": 0.23694,
+          "w": 0.14078,
+          "h": 0.05472
+        },
+        "recommended_font_size_px": 58
+      },
       "slides": {
         "slide_01": {
           "narrative_role": "abertura",
@@ -1048,6 +1168,7 @@
             "bubble_1": {
               "role": "specialist",
               "is_expert": true,
+              "skip": false,
               "text_area": {
                 "x": 0.0625,
                 "y": 0.24957,
@@ -1060,6 +1181,7 @@
             "bubble_2": {
               "role": "unknown",
               "is_expert": false,
+              "skip": false,
               "text_area": {
                 "x": 0.80736,
                 "y": 0.63677,
@@ -1072,6 +1194,7 @@
             "bubble_3": {
               "role": "student",
               "is_expert": false,
+              "skip": false,
               "text_area": {
                 "x": 0.4208,
                 "y": 0.68229,
@@ -1091,6 +1214,7 @@
             "bubble_1": {
               "role": "specialist",
               "is_expert": true,
+              "skip": false,
               "text_area": {
                 "x": 0.06304,
                 "y": 0.24957,
@@ -1103,6 +1227,7 @@
             "bubble_2": {
               "role": "unknown",
               "is_expert": false,
+              "skip": false,
               "text_area": {
                 "x": 0.80689,
                 "y": 0.63677,
@@ -1115,6 +1240,7 @@
             "bubble_3": {
               "role": "student",
               "is_expert": false,
+              "skip": false,
               "text_area": {
                 "x": 0.4208,
                 "y": 0.68229,
@@ -1134,6 +1260,7 @@
             "bubble_1": {
               "role": "specialist",
               "is_expert": true,
+              "skip": false,
               "text_area": {
                 "x": 0.06304,
                 "y": 0.24957,
@@ -1146,6 +1273,7 @@
             "bubble_2": {
               "role": "unknown",
               "is_expert": false,
+              "skip": false,
               "text_area": {
                 "x": 0.80736,
                 "y": 0.63677,
@@ -1158,6 +1286,7 @@
             "bubble_3": {
               "role": "student",
               "is_expert": false,
+              "skip": false,
               "text_area": {
                 "x": 0.4208,
                 "y": 0.68229,
@@ -1177,6 +1306,7 @@
             "bubble_1": {
               "role": "specialist",
               "is_expert": true,
+              "skip": false,
               "text_area": {
                 "x": 0.06304,
                 "y": 0.24957,
@@ -1189,6 +1319,7 @@
             "bubble_2": {
               "role": "girl",
               "is_expert": false,
+              "skip": false,
               "text_area": {
                 "x": 0.81034,
                 "y": 0.27517,
@@ -1201,6 +1332,7 @@
             "bubble_3": {
               "role": "unknown",
               "is_expert": false,
+              "skip": false,
               "text_area": {
                 "x": 0.80736,
                 "y": 0.63677,
@@ -1213,6 +1345,7 @@
             "bubble_4": {
               "role": "student",
               "is_expert": false,
+              "skip": false,
               "text_area": {
                 "x": 0.4208,
                 "y": 0.68229,
@@ -1232,6 +1365,7 @@
             "bubble_1": {
               "role": "specialist",
               "is_expert": true,
+              "skip": false,
               "text_area": {
                 "x": 0.0625,
                 "y": 0.24957,
@@ -1244,6 +1378,7 @@
             "bubble_2": {
               "role": "unknown",
               "is_expert": false,
+              "skip": false,
               "text_area": {
                 "x": 0.80736,
                 "y": 0.63677,
@@ -1256,6 +1391,7 @@
             "bubble_3": {
               "role": "student",
               "is_expert": false,
+              "skip": false,
               "text_area": {
                 "x": 0.4208,
                 "y": 0.68229,
